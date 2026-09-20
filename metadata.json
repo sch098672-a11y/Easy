@@ -1,0 +1,6 @@
+{
+  "name": "EASYLIFE SUPERMARKET",
+  "description": "Nigeria's premium online supermarket. Discover everyday essentials, trusted brands, fresh groceries, electronics and unbeatable flash deals delivered conveniently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
